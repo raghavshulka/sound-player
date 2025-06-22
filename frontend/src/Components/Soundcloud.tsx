@@ -51,7 +51,7 @@ const Soundcloud = () => {
 
   // API base URL
   // **FIX: Removed process.env which causes a crash in the browser.**
-  const API_BASE_URL = 'http://localhost:5000';
+  const API_BASE_URL = 'https://sound-player.onrender.com';
 
   // --- PLAYER LOGIC (MEMOIZED WITH useCallback FOR STABILITY) ---
 
