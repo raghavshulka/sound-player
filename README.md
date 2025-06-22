@@ -100,15 +100,4 @@ MIT — use it freely, improve it collaboratively!
 Open to PRs, ideas, and future feature collaborations!
 If you're into music, AI, or creative tech — let's connect.
 
-yaml
-Copy
-Edit
 
----
-
-Let me know if you want me to also:
-- Generate folder scaffolding with empty files (`controllers/`, `models/`, etc.)
-- Write boilerplate for Spotify API calls
-- Help with vector embedding using `openai-embeddings`, `sentence-transformers`, etc.
-
-I'm here to assist with the next phases too!
